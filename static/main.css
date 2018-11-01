@@ -1,0 +1,83 @@
+body {
+    margin: 1em;
+    
+}
+#upper ul li a {
+    float: right;
+    
+
+}
+input[type='text2']{
+    width: 40%;
+    height: 45px;
+    background: #ffffff url('../static/images/Google.png') no-repeat right;
+    border: none;
+    padding-left: 25px;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+.center{
+
+    margin-bottom:12px;
+    display: block;
+    margin-top: 100px;
+    padding-top: 12px;
+   
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    margin: .5em;
+}
+
+ul{
+    list-style: none;
+}
+.center, #blue{
+         color: blue;
+
+}
+.center, #yellow{
+    color:yellow;
+
+}
+.center, #green{
+    color:green;
+
+}
+.center, #red{
+    color: red;
+}
+.center, p{
+    color: black;
+}
+
+#lower1 ul li a{
+    float: right;
+}
+#lower ul li a{
+    float: left;
+}
+
+footer {
+    padding-top: 50px;
+
+
+}
+#TM{
+font-size: 5em;
+font-style: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+}
